@@ -1,1 +1,4 @@
-# dradjad-h-wibowo
+# dhwibowo-covid-19-health-production-function
+“When can physical distancing be relaxed? A health production function approach for COVID-19 control policy”. 
+
+This article is motivated by my concerns that: (1) many countries have somehow been in rush in easing physical distancing measures for economic reasons. In the case of my country Indonesia, the relaxation is even done without reference to a reliable R, (2) some policy makers mistakenly use economics as an argument to ease physical distancing. But my study shows that even by economics’ canonical function and parameter (i.e. short-run production function and elasticity), there are still high risks of transmission re-escalations as the completion of my study (June 30th, 2020). (3) Developing countries like Indonesia lack capacities to estimate R accurately, so this study offers a complimentary approach which can be applied easily and less costly. 
